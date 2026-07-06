@@ -1,44 +1,83 @@
-Tarifit AI - Dialect Data Template
+# Data Template
 
-1. Dialect Information
+This document defines the standard format for all linguistic data in the Tarifit-Dialects repository.
 
-- Dialect name:
-- Local name:
-- Region:
-- Village/Town:
-- Speaker age:
-- Speaker gender:
+---
 
-2. Vocabulary
+## Vocabulary Entry
 
-Tarifit| Arabic| English| Notes
+Each vocabulary entry should include the following fields:
 
-3. Pronunciation
+| Field | Required | Description |
+|-------|:--------:|-------------|
+| ID | ✅ | Unique identifier |
+| Tarifit | ✅ | Word in Tarifit (Latin script) |
+| Arabic | ✅ | Arabic translation |
+| English | ✅ | English translation |
+| Dialect | ✅ | Dialect group |
+| Part of Speech | ✅ | Noun, Verb, Adjective... |
+| Category | ✅ | Food, Nature, Family... |
+| Example | ⭕ | Example sentence |
+| IPA | ⭕ | Pronunciation (optional) |
+| Notes | ⭕ | Additional information |
 
-- IPA:
-- Local pronunciation:
-- Variants:
+---
 
-4. Example Sentences
+## Example
 
-Tarifit Sentence| Arabic| English
+| ID | Tarifit | Arabic | English | Dialect | POS | Category | Example |
+|----|----------|---------|----------|----------|-----|----------|----------|
+| 000001 | aman | ماء | water | Central Rif | Noun | Nature | Aman d azedgan. |
+| 000002 | tafucht | شمس | sun | Central Rif | Noun | Nature | Tafucht tfeɣ. |
 
-5. Grammar Notes
+---
 
-- Verb forms:
-- Plurals:
-- Pronouns:
-- Special features:
+## Sentence Entry
 
-6. Audio
+Each sentence should include:
 
-- Recording file:
-- Speaker:
-- Date:
-- Location:
+| Field | Required |
+|-------|:--------:|
+| ID | ✅ |
+| Tarifit | ✅ |
+| Arabic | ✅ |
+| English | ✅ |
+| Dialect | ✅ |
+| Topic | ⭕ |
+| Notes | ⭕ |
 
-7. Cultural Notes
+---
 
-- Expressions:
-- Proverbs:
-- Traditional terms:
+## Categories
+
+Suggested categories:
+
+- Nature
+- Family
+- Food
+- Animals
+- Body
+- Colors
+- Numbers
+- Clothing
+- Education
+- Health
+- Transportation
+- Technology
+- Culture
+- Religion
+- Daily Life
+- Agriculture
+- Weather
+- Emotions
+- Work
+- Geography
+
+---
+
+## Naming Rules
+
+- Use lowercase for Latin words.
+- Use one standard spelling for each word.
+- Avoid duplicate entries.
+- Follow the orthography guide.
