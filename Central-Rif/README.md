@@ -2,6 +2,8 @@
 
 The **Central Rif** dialect group includes several varieties of Tarifit spoken across the central Rif region.
 
+This directory contains linguistic resources for the Central Rif dialects, including vocabulary, phrases, example sentences, grammar notes, and phonological documentation.
+
 ## Dialects
 
 - Thwaryaghth (Ayt Waryaghar)
@@ -13,10 +15,10 @@ The **Central Rif** dialect group includes several varieties of Tarifit spoken a
 ## Contents
 
 - `vocabulary.csv` — Vocabulary database
-- `phrases.md` — Common expressions
+- `phrases.csv` — Common expressions
+- `examples.csv` — Example sentences
 - `grammar.md` — Dialect-specific grammar
 - `phonology.md` — Sound system
-- `examples.md` — Example sentences
 
 ## Status
 
