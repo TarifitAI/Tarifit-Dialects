@@ -1,39 +1,59 @@
-Tarifit-Dialects
+# Tarifit-Dialects
 
-Welcome to the official Tarifit AI dialect repository.
+The official open-source repository for documenting, preserving, and developing the **Tarifit language** and its regional dialects.
 
-This repository is dedicated to documenting, preserving, and developing the Tarifit language and its regional dialects through artificial intelligence and digital technologies.
+This project is part of **Tarifit AI**, an initiative dedicated to building high-quality linguistic resources for artificial intelligence, language technology, and the preservation of the Rif linguistic heritage.
 
-Main Dialect Groups
+---
 
-Eastern Rif
+## 🌍 Dialect Groups
 
+### Eastern Rif
 - Thaqraycht (Iqrayen / Qelaya)
 - Thshbḍant (Ishbḍanen)
 - Thbḍarst (Imṭalsen)
 - Thabuyhiyt (Ayt Buyḥyi)
 - Thaytsɛidt (Ayt Saɛid)
 
-Central Rif
-
+### Central Rif
 - Thwaryaghth (Ayt Waryaghar)
 - Thwzint (Ayt Tuzin)
 - Thimsmant (Temsman)
 - Thibqwyin (Ibqoyen)
 - Thijznayt (Ijznayen)
 
-Western Rif
-
+### Western Rif
 - Tarifit Ghomara
 - Tarifit Sanhaja Srayr
 
-Project Goals
+---
+
+## 🎯 Project Goals
 
 - Document Tarifit dialects
-- Build linguistic databases
-- Create speech datasets
-- Develop AI voice assistants
-- Preserve Rif linguistic heritage
+- Build structured linguistic databases
+- Create speech and audio datasets
+- Develop AI-powered language tools
+- Support machine translation
+- Develop voice assistants
+- Preserve and promote the linguistic heritage of the Rif
 
-Tarifit AI
-Building the Future of the Tarifit Language with AI.
+---
+
+## 🤝 Contributing
+
+Contributions are welcome.
+
+Please read the `CONTRIBUTING.md` guide before submitting issues or pull requests.
+
+---
+
+## 📄 License
+
+This project is released under the MIT License.
+
+---
+
+# Tarifit AI
+
+**Building the Future of the Tarifit Language with Artificial Intelligence.**
