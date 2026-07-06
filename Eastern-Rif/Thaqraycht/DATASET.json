@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "arabic": "الماء",
+    "tarifit": "أمان",
+    "latin": "Aman",
+    "english": "Water",
+    "category": "nature",
+    "dialect": "Thaqraycht",
+    "origin": "native"
+  },
+  {
+    "id": 2,
+    "arabic": "الشمس",
+    "tarifit": "ثفوشت",
+    "latin": "Tafucht",
+    "english": "Sun",
+    "category": "nature",
+    "dialect": "Thaqraycht",
+    "origin": "native"
+  },
+  {
+    "id": 3,
+    "arabic": "الرجل",
+    "tarifit": "أرياز",
+    "latin": "Aryaz",
+    "english": "Man",
+    "category": "human",
+    "dialect": "Thaqraycht",
+    "origin": "native"
+  }
+]
