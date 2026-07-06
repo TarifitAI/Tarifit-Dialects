@@ -1,0 +1,11 @@
+id,tarifit,arabic,english,dialect,topic
+000001,Azul,مرحبًا,Hello,Central Rif,Greeting
+000002,Labas?,كيف حالك؟,How are you?,Central Rif,Greeting
+000003,Labas.,أنا بخير.,I'm fine.,Central Rif,Greeting
+000004,Tanemmirt,شكرًا,Thank you,Central Rif,Politeness
+000005,Afak,من فضلك,Please,Central Rif,Politeness
+000006,Smaḥ-iyi,اعذرني,Excuse me,Central Rif,Politeness
+000007,Uhu,لا,No,Central Rif,Basic
+000008,Ih,نعم,Yes,Central Rif,Basic
+000009,Beslama,إلى اللقاء,Goodbye,Central Rif,Farewell
+000010,Ar tufat,إلى الغد,See you tomorrow,Central Rif,Farewell
