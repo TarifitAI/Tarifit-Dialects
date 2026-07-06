@@ -1,43 +1,49 @@
-# Thaqraycht Orthography
+# Tarifit Orthography
 
-This document defines the recommended writing system for the **Thaqraycht** dialect using both the Arabic and Latin alphabets.
+This document defines the standard writing system used throughout the **Tarifit-Dialects** repository.
 
----
+## Writing Systems
 
-## Alphabet Examples
+The project supports:
 
-| Arabic | Latin | Meaning |
-|---------|-------|---------|
-| أمان | Aman | Water |
-| أرياز | Aryaz | Man |
-| ثفوشت | Tafucht | Sun |
-| ثازيري | Taziri | Moon |
+- Latin script (primary)
+- Arabic script (reference)
+
+The Latin script is the official writing system for all datasets.
 
 ---
 
-## Transliteration Rules
+## Transliteration
 
 | Arabic | Latin |
 |---------|-------|
+| ا | a |
+| ب | b |
+| ت | t |
 | ث | th |
-| ذ | dh |
-| غ | gh |
-| ش | sh |
 | ج | j |
+| ح | ḥ |
 | خ | kh |
-| ق | q |
-| ڭ | g |
-| ڵ | ḷ |
+| د | d |
+| ذ | dh |
+| ر | r |
 | ڕ | ṛ |
 | ز | z |
 | س | s |
-| ك | k |
+| ش | sh |
+| ص | ṣ |
+| ض | ḍ |
+| ط | ṭ |
+| ظ | ẓ |
+| ع | ɛ |
+| غ | gh |
 | ف | f |
-| ب | b |
+| ق | q |
+| ك | k |
+| ل | l |
 | م | m |
 | ن | n |
-| ل | l |
-| ر | r |
+| ه | h |
 | و | w |
 | ي | y |
 
@@ -46,7 +52,7 @@ This document defines the recommended writing system for the **Thaqraycht** dial
 ## Vowels
 
 | Latin | Description |
-|-------|-------------|
+|--------|-------------|
 | a | Open vowel |
 | i | Front close vowel |
 | u | Back close vowel |
@@ -54,8 +60,20 @@ This document defines the recommended writing system for the **Thaqraycht** dial
 
 ---
 
-## Notes
+## Examples
 
-- The Latin orthography follows the conventions adopted by the **Tarifit AI** project.
-- Consistent spelling should be used throughout the repository.
-- Dialect-specific pronunciation differences should be documented separately and should not affect the standard spelling unless necessary.
+| Latin | Arabic | English |
+|--------|---------|---------|
+| aman | أمان | water |
+| tafucht | ثفوشت | sun |
+| taziri | ثازيري | moon |
+| aryaz | أرياز | man |
+
+---
+
+## Rules
+
+- Use Latin script as the primary writing system.
+- Use consistent spelling across all dialects.
+- Document pronunciation differences separately.
+- Do not create multiple spellings for the same word unless they represent genuine dialectal differences.
