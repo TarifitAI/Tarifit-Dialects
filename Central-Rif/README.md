@@ -1,17 +1,23 @@
-Central Rif Tarifit Dialects
+# Central Rif
 
-Main Dialects
+The **Central Rif** dialect group includes several varieties of Tarifit spoken across the central Rif region.
 
-- Thwaryaghth (ثورياغرث)
-- Thwzint (ثوزينث)
-- Thimsmant (ثمسمانث)
-- Thibqwyin (ثبقويينث)
+## Dialects
 
-Main Regions
+- Thwaryaghth (Ayt Waryaghar)
+- Thwzint (Ayt Tuzin)
+- Thimsmant (Temsman)
+- Thibqwyin (Ibqoyen)
+- Thijznayt (Ijznayen)
 
-- Al Hoceima
-- Midar
-- Temsaman
-- Central Rif
+## Contents
 
-This section documents the Central Tarifit dialects and their linguistic variations.
+- `vocabulary.csv` — Vocabulary database
+- `phrases.md` — Common expressions
+- `grammar.md` — Dialect-specific grammar
+- `phonology.md` — Sound system
+- `examples.md` — Example sentences
+
+## Status
+
+🚧 Under active development.
